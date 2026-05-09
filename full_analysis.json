@@ -1,0 +1,77 @@
+{
+  "poll_asr": {
+    "gpt-4o": {
+      "3B": 1.0,
+      "3C": 1.0
+    },
+    "claude-3.5-sonnet": {
+      "3B": 1.0,
+      "3C": 1.0
+    },
+    "gemini-1.5-pro": {
+      "3B": 1.0,
+      "3C": 1.0
+    }
+  },
+  "self_report_validity": {
+    "gpt-4o": {
+      "agree": 128,
+      "disagree": 52,
+      "total": 180
+    },
+    "claude-3.5-sonnet": {
+      "agree": 135,
+      "disagree": 44,
+      "total": 179
+    },
+    "gemini-1.5-pro": {
+      "agree": 130,
+      "disagree": 50,
+      "total": 180
+    }
+  },
+  "poll_mean_scores": {
+    "gpt-4o": {
+      "3B": {
+        "epistemic_faithfulness": 2.7758620689655173,
+        "audience_adaptation": 2.310344827586207,
+        "role_accountability": 3.0,
+        "n": 58
+      },
+      "3C": {
+        "epistemic_faithfulness": 2.95,
+        "audience_adaptation": 2.3333333333333335,
+        "role_accountability": 3.0,
+        "n": 60
+      }
+    },
+    "claude-3.5-sonnet": {
+      "3B": {
+        "epistemic_faithfulness": 2.9152542372881354,
+        "audience_adaptation": 2.4237288135593222,
+        "role_accountability": 2.7457627118644066,
+        "n": 59
+      },
+      "3C": {
+        "epistemic_faithfulness": 2.9827586206896552,
+        "audience_adaptation": 2.793103448275862,
+        "role_accountability": 3.0,
+        "n": 58
+      }
+    },
+    "gemini-1.5-pro": {
+      "3B": {
+        "epistemic_faithfulness": 2.05,
+        "audience_adaptation": 3.0,
+        "role_accountability": 2.8833333333333333,
+        "n": 60
+      },
+      "3C": {
+        "epistemic_faithfulness": 2.933333333333333,
+        "audience_adaptation": 2.6166666666666667,
+        "role_accountability": 2.9833333333333334,
+        "n": 60
+      }
+    }
+  }
+}

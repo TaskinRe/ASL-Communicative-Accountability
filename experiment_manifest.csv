@@ -1,0 +1,1441 @@
+stimulus_id,ground_truth_tag,model,condition,epistemic_evidence,stem_term,source
+S001,UNCERTAIN,gpt-4o,1A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,1A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,1A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gpt-4o,1B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,1B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,1B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gpt-4o,1C,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,1C,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,1C,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gpt-4o,2A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,2A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,2A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gpt-4o,2B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,2B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,2B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gpt-4o,3A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,3A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,3A,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gpt-4o,3B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,3B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,3B,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gpt-4o,3C,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,claude-3.5-sonnet,3C,might,CD11a,CoNLL-2010
+S001,UNCERTAIN,gemini-1.5-pro,3C,might,CD11a,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,1A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,1A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,1A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,1B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,1B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,1B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,1C,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,1C,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,1C,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,2A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,2A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,2A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,2B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,2B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,2B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,3A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,3A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,3A,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,3B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,3B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,3B,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gpt-4o,3C,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,claude-3.5-sonnet,3C,might,ROIs,CoNLL-2010
+S002,UNCERTAIN,gemini-1.5-pro,3C,might,ROIs,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,1A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,1A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,1A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,1B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,1B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,1B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,1C,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,1C,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,1C,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,2A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,2A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,2A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,2B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,2B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,2B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,3A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,3A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,3A,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,3B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,3B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,3B,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gpt-4o,3C,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,claude-3.5-sonnet,3C,"appears, could",GH ,CoNLL-2010
+S003,UNCERTAIN,gemini-1.5-pro,3C,"appears, could",GH ,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,1A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,1A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,1A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,1B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,1B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,1B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,1C,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,1C,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,1C,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,2A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,2A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,2A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,2B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,2B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,2B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,3A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,3A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,3A,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,3B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,3B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,3B,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gpt-4o,3C,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,claude-3.5-sonnet,3C,"suggest, may",NF-,CoNLL-2010
+S004,UNCERTAIN,gemini-1.5-pro,3C,"suggest, may",NF-,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,1A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,1A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,1A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,1B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,1B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,1B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,1C,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,1C,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,1C,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,2A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,2A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,2A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,2B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,2B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,2B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,3A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,3A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,3A,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,3B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,3B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,3B,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gpt-4o,3C,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,claude-3.5-sonnet,3C,indicate that,supershift,CoNLL-2010
+S005,UNCERTAIN,gemini-1.5-pro,3C,indicate that,supershift,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,1A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,1A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,1A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,1B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,1B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,1B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,1C,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,1C,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,1C,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,2A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,2A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,2A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,2B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,2B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,2B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,3A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,3A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,3A,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,3B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,3B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,3B,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gpt-4o,3C,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,claude-3.5-sonnet,3C,hypothesize,GATA-1,CoNLL-2010
+S006,UNCERTAIN,gemini-1.5-pro,3C,hypothesize,GATA-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,1A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,1A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,1A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,1B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,1B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,1B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,1C,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,1C,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,1C,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,2A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,2A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,2A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,2B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,2B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,2B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,3A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,3A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,3A,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,3B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,3B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,3B,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gpt-4o,3C,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,claude-3.5-sonnet,3C,"suggests, or",MZF-1,CoNLL-2010
+S007,UNCERTAIN,gemini-1.5-pro,3C,"suggests, or",MZF-1,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,1A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,1A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,1A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,1B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,1B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,1B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,1C,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,1C,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,1C,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,2A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,2A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,2A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,2B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,2B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,2B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,3A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,3A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,3A,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,3B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,3B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,3B,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gpt-4o,3C,may,NF-,CoNLL-2010
+S008,UNCERTAIN,claude-3.5-sonnet,3C,may,NF-,CoNLL-2010
+S008,UNCERTAIN,gemini-1.5-pro,3C,may,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,1A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,1A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,1A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,1B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,1B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,1B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,1C,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,1C,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,1C,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,2A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,2A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,2A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,2B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,2B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,2B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,3A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,3A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,3A,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,3B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,3B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,3B,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gpt-4o,3C,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,claude-3.5-sonnet,3C,propose,NF-,CoNLL-2010
+S009,UNCERTAIN,gemini-1.5-pro,3C,propose,NF-,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,1A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,1A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,1A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,1B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,1B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,1B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,1C,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,1C,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,1C,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,2A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,2A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,2A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,2B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,2B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,2B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,3A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,3A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,3A,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,3B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,3B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,3B,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gpt-4o,3C,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,claude-3.5-sonnet,3C,"suggesting, may",IL-1,CoNLL-2010
+S010,UNCERTAIN,gemini-1.5-pro,3C,"suggesting, may",IL-1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,1A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,1A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,1A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,1B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,1B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,1B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,1C,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,1C,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,1C,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,2A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,2A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,2A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,2B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,2B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,2B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,3A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,3A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,3A,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,3B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,3B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,3B,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gpt-4o,3C,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,claude-3.5-sonnet,3C,"proposed, may",ETS1,CoNLL-2010
+S011,UNCERTAIN,gemini-1.5-pro,3C,"proposed, may",ETS1,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,1A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,1A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,1A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,1B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,1B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,1B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,1C,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,1C,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,1C,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,2A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,2A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,2A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,2B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,2B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,2B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,3A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,3A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,3A,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,3B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,3B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,3B,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gpt-4o,3C,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,claude-3.5-sonnet,3C,suggested,PKC,CoNLL-2010
+S012,UNCERTAIN,gemini-1.5-pro,3C,suggested,PKC,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,1A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,1A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,1A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,1B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,1B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,1B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,1C,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,1C,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,1C,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,2A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,2A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,2A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,2B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,2B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,2B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,3A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,3A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,3A,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,3B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,3B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,3B,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gpt-4o,3C,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,claude-3.5-sonnet,3C,appears,IBR,CoNLL-2010
+S013,UNCERTAIN,gemini-1.5-pro,3C,appears,IBR,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,1A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,1A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,1A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,1B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,1B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,1B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,1C,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,1C,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,1C,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,2A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,2A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,2A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,2B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,2B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,2B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,3A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,3A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,3A,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,3B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,3B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,3B,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gpt-4o,3C,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,claude-3.5-sonnet,3C,suggested,IL-2,CoNLL-2010
+S014,UNCERTAIN,gemini-1.5-pro,3C,suggested,IL-2,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,1A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,1A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,1A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,1B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,1B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,1B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,1C,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,1C,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,1C,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,2A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,2A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,2A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,2B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,2B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,2B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,3A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,3A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,3A,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,3B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,3B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,3B,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gpt-4o,3C,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,claude-3.5-sonnet,3C,possible,IL-6,CoNLL-2010
+S015,UNCERTAIN,gemini-1.5-pro,3C,possible,IL-6,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,1A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,1A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,1A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,1B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,1B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,1B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,1C,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,1C,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,1C,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,2A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,2A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,2A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,2B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,2B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,2B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,3A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,3A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,3A,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,3B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,3B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,3B,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gpt-4o,3C,may,CD15,CoNLL-2010
+S016,UNCERTAIN,claude-3.5-sonnet,3C,may,CD15,CoNLL-2010
+S016,UNCERTAIN,gemini-1.5-pro,3C,may,CD15,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,1A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,1A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,1A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,1B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,1B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,1B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,1C,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,1C,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,1C,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,2A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,2A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,2A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,2B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,2B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,2B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,3A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,3A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,3A,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,3B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,3B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,3B,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gpt-4o,3C,may,RelA,CoNLL-2010
+S017,UNCERTAIN,claude-3.5-sonnet,3C,may,RelA,CoNLL-2010
+S017,UNCERTAIN,gemini-1.5-pro,3C,may,RelA,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,1A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,1A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,1A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,1B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,1B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,1B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,1C,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,1C,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,1C,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,2A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,2A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,2A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,2B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,2B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,2B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,3A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,3A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,3A,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,3B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,3B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,3B,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gpt-4o,3C,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,claude-3.5-sonnet,3C,indicate that,CCK-8,CoNLL-2010
+S018,UNCERTAIN,gemini-1.5-pro,3C,indicate that,CCK-8,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,1A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,1A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,1A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,1B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,1B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,1B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,1C,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,1C,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,1C,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,2A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,2A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,2A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,2B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,2B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,2B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,3A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,3A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,3A,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,3B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,3B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,3B,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gpt-4o,3C,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,claude-3.5-sonnet,3C,"may, may",RP1,CoNLL-2010
+S019,UNCERTAIN,gemini-1.5-pro,3C,"may, may",RP1,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,1A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,1A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,1A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,1B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,1B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,1B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,1C,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,1C,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,1C,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,2A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,2A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,2A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,2B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,2B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,2B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,3A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,3A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,3A,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,3B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,3B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,3B,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gpt-4o,3C,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,claude-3.5-sonnet,3C,"seems, or",NF-AT,CoNLL-2010
+S020,UNCERTAIN,gemini-1.5-pro,3C,"seems, or",NF-AT,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),hybridized,CoNLL-2010
+S021,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),hybridized,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),GATA ,CoNLL-2010
+S022,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),GATA ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),PCR ,CoNLL-2010
+S023,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),PCR ,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),IL-1R,CoNLL-2010
+S024,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),IL-1R,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),CD28,CoNLL-2010
+S025,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),CD28,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),antibodies,CoNLL-2010
+S026,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),antibodies,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),transcription,CoNLL-2010
+S027,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),transcription,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S028,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),CD4,CoNLL-2010
+S029,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),CD4,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),DNA ,CoNLL-2010
+S030,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),DNA ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),HCMV ,CoNLL-2010
+S031,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),HCMV ,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),HIV-1,CoNLL-2010
+S032,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),HIV-1,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),CD28,CoNLL-2010
+S033,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),CD28,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S034,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),VCAM-1,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),DZA ,CoNLL-2010
+S035,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),DZA ,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),IL-10R,CoNLL-2010
+S036,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),IL-10R,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S037,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),AP-1,CoNLL-2010
+S038,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),AP-1,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),monocytes,CoNLL-2010
+S039,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),monocytes,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,1A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,1B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,1C,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,2A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,2B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,3A,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,3B,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gpt-4o,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,claude-3.5-sonnet,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S040,ASSERTIVE,gemini-1.5-pro,3C,N/A (no hedge cues),IL-2,CoNLL-2010
+S041,UNCERTAIN,gpt-4o,1A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,1A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,1A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gpt-4o,1B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,1B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,1B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gpt-4o,1C,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,1C,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,1C,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gpt-4o,2A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,2A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,2A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gpt-4o,2B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,2B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,2B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gpt-4o,3A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,3A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,3A,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gpt-4o,3B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,3B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,3B,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gpt-4o,3C,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,claude-3.5-sonnet,3C,proposed,IBM,PubMed_OA
+S041,UNCERTAIN,gemini-1.5-pro,3C,proposed,IBM,PubMed_OA
+S042,UNCERTAIN,gpt-4o,1A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,1A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,1A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gpt-4o,1B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,1B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,1B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gpt-4o,1C,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,1C,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,1C,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gpt-4o,2A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,2A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,2A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gpt-4o,2B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,2B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,2B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gpt-4o,3A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,3A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,3A,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gpt-4o,3B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,3B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,3B,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gpt-4o,3C,may,SPECT,PubMed_OA
+S042,UNCERTAIN,claude-3.5-sonnet,3C,may,SPECT,PubMed_OA
+S042,UNCERTAIN,gemini-1.5-pro,3C,may,SPECT,PubMed_OA
+S043,UNCERTAIN,gpt-4o,1A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,1A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,1A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gpt-4o,1B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,1B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,1B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gpt-4o,1C,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,1C,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,1C,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gpt-4o,2A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,2A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,2A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gpt-4o,2B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,2B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,2B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gpt-4o,3A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,3A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,3A,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gpt-4o,3B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,3B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,3B,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gpt-4o,3C,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,claude-3.5-sonnet,3C,"may, might",Nanotechnology-based,PubMed_OA
+S043,UNCERTAIN,gemini-1.5-pro,3C,"may, might",Nanotechnology-based,PubMed_OA
+S044,UNCERTAIN,gpt-4o,1A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,1A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,1A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gpt-4o,1B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,1B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,1B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gpt-4o,1C,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,1C,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,1C,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gpt-4o,2A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,2A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,2A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gpt-4o,2B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,2B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,2B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gpt-4o,3A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,3A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,3A,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gpt-4o,3B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,3B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,3B,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gpt-4o,3C,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,claude-3.5-sonnet,3C,potential,ALDM,PubMed_OA
+S044,UNCERTAIN,gemini-1.5-pro,3C,potential,ALDM,PubMed_OA
+S045,UNCERTAIN,gpt-4o,1A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,1A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,1A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gpt-4o,1B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,1B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,1B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gpt-4o,1C,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,1C,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,1C,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gpt-4o,2A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,2A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,2A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gpt-4o,2B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,2B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,2B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gpt-4o,3A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,3A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,3A,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gpt-4o,3B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,3B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,3B,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gpt-4o,3C,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,claude-3.5-sonnet,3C,proposes,Semi-ProtoPNet,PubMed_OA
+S045,UNCERTAIN,gemini-1.5-pro,3C,proposes,Semi-ProtoPNet,PubMed_OA
+S046,UNCERTAIN,gpt-4o,1A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,1A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,1A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gpt-4o,1B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,1B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,1B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gpt-4o,1C,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,1C,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,1C,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gpt-4o,2A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,2A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,2A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gpt-4o,2B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,2B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,2B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gpt-4o,3A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,3A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,3A,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gpt-4o,3B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,3B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,3B,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gpt-4o,3C,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,claude-3.5-sonnet,3C,potential,electron-chemical,PubMed_OA
+S046,UNCERTAIN,gemini-1.5-pro,3C,potential,electron-chemical,PubMed_OA
+S047,UNCERTAIN,gpt-4o,1A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,1A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,1A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gpt-4o,1B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,1B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,1B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gpt-4o,1C,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,1C,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,1C,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gpt-4o,2A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,2A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,2A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gpt-4o,2B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,2B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,2B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gpt-4o,3A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,3A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,3A,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gpt-4o,3B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,3B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,3B,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gpt-4o,3C,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,claude-3.5-sonnet,3C,suggest,parameters,PubMed_OA
+S047,UNCERTAIN,gemini-1.5-pro,3C,suggest,parameters,PubMed_OA
+S048,UNCERTAIN,gpt-4o,1A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,1A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,1A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gpt-4o,1B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,1B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,1B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gpt-4o,1C,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,1C,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,1C,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gpt-4o,2A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,2A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,2A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gpt-4o,2B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,2B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,2B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gpt-4o,3A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,3A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,3A,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gpt-4o,3B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,3B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,3B,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gpt-4o,3C,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,claude-3.5-sonnet,3C,proposed,Throughout,PubMed_OA
+S048,UNCERTAIN,gemini-1.5-pro,3C,proposed,Throughout,PubMed_OA
+S049,UNCERTAIN,gpt-4o,1A,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,1A,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,1A,may,restorations,PubMed_OA
+S049,UNCERTAIN,gpt-4o,1B,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,1B,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,1B,may,restorations,PubMed_OA
+S049,UNCERTAIN,gpt-4o,1C,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,1C,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,1C,may,restorations,PubMed_OA
+S049,UNCERTAIN,gpt-4o,2A,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,2A,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,2A,may,restorations,PubMed_OA
+S049,UNCERTAIN,gpt-4o,2B,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,2B,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,2B,may,restorations,PubMed_OA
+S049,UNCERTAIN,gpt-4o,3A,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,3A,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,3A,may,restorations,PubMed_OA
+S049,UNCERTAIN,gpt-4o,3B,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,3B,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,3B,may,restorations,PubMed_OA
+S049,UNCERTAIN,gpt-4o,3C,may,restorations,PubMed_OA
+S049,UNCERTAIN,claude-3.5-sonnet,3C,may,restorations,PubMed_OA
+S049,UNCERTAIN,gemini-1.5-pro,3C,may,restorations,PubMed_OA
+S050,UNCERTAIN,gpt-4o,1A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,1A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,1A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gpt-4o,1B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,1B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,1B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gpt-4o,1C,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,1C,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,1C,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gpt-4o,2A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,2A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,2A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gpt-4o,2B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,2B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,2B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gpt-4o,3A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,3A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,3A,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gpt-4o,3B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,3B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,3B,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gpt-4o,3C,propose,polarization,PubMed_OA
+S050,UNCERTAIN,claude-3.5-sonnet,3C,propose,polarization,PubMed_OA
+S050,UNCERTAIN,gemini-1.5-pro,3C,propose,polarization,PubMed_OA
+S051,ASSERTIVE,gpt-4o,1A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,1A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,1A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gpt-4o,1B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,1B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,1B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gpt-4o,1C,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,1C,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,1C,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gpt-4o,2A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,2A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,2A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gpt-4o,2B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,2B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,2B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gpt-4o,3A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,3A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,3A,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gpt-4o,3B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,3B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,3B,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gpt-4o,3C,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,claude-3.5-sonnet,3C,N/A,CMB,PubMed_OA
+S051,ASSERTIVE,gemini-1.5-pro,3C,N/A,CMB,PubMed_OA
+S052,ASSERTIVE,gpt-4o,1A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,1A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,1A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gpt-4o,1B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,1B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,1B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gpt-4o,1C,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,1C,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,1C,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gpt-4o,2A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,2A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,2A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gpt-4o,2B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,2B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,2B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gpt-4o,3A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,3A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,3A,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gpt-4o,3B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,3B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,3B,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gpt-4o,3C,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,claude-3.5-sonnet,3C,N/A,EMD,PubMed_OA
+S052,ASSERTIVE,gemini-1.5-pro,3C,N/A,EMD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,1A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,1A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,1A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,1B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,1B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,1B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,1C,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,1C,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,1C,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,2A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,2A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,2A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,2B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,2B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,2B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,3A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,3A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,3A,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,3B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,3B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,3B,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gpt-4o,3C,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,claude-3.5-sonnet,3C,N/A,ALD,PubMed_OA
+S053,ASSERTIVE,gemini-1.5-pro,3C,N/A,ALD,PubMed_OA
+S054,ASSERTIVE,gpt-4o,1A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,1A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,1A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gpt-4o,1B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,1B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,1B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gpt-4o,1C,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,1C,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,1C,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gpt-4o,2A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,2A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,2A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gpt-4o,2B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,2B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,2B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gpt-4o,3A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,3A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,3A,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gpt-4o,3B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,3B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,3B,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gpt-4o,3C,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,claude-3.5-sonnet,3C,N/A,malignancies,PubMed_OA
+S054,ASSERTIVE,gemini-1.5-pro,3C,N/A,malignancies,PubMed_OA
+S055,ASSERTIVE,gpt-4o,1A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,1A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,1A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gpt-4o,1B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,1B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,1B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gpt-4o,1C,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,1C,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,1C,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gpt-4o,2A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,2A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,2A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gpt-4o,2B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,2B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,2B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gpt-4o,3A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,3A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,3A,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gpt-4o,3B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,3B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,3B,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gpt-4o,3C,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,claude-3.5-sonnet,3C,N/A,DCNN,PubMed_OA
+S055,ASSERTIVE,gemini-1.5-pro,3C,N/A,DCNN,PubMed_OA
+S056,ASSERTIVE,gpt-4o,1A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,1A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,1A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gpt-4o,1B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,1B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,1B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gpt-4o,1C,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,1C,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,1C,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gpt-4o,2A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,2A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,2A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gpt-4o,2B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,2B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,2B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gpt-4o,3A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,3A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,3A,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gpt-4o,3B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,3B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,3B,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gpt-4o,3C,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,claude-3.5-sonnet,3C,N/A,PEM,PubMed_OA
+S056,ASSERTIVE,gemini-1.5-pro,3C,N/A,PEM,PubMed_OA
+S057,ASSERTIVE,gpt-4o,1A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,1A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,1A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gpt-4o,1B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,1B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,1B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gpt-4o,1C,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,1C,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,1C,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gpt-4o,2A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,2A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,2A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gpt-4o,2B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,2B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,2B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gpt-4o,3A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,3A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,3A,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gpt-4o,3B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,3B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,3B,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gpt-4o,3C,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,claude-3.5-sonnet,3C,N/A,SP2T,PubMed_OA
+S057,ASSERTIVE,gemini-1.5-pro,3C,N/A,SP2T,PubMed_OA
+S058,ASSERTIVE,gpt-4o,1A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,1A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,1A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gpt-4o,1B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,1B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,1B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gpt-4o,1C,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,1C,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,1C,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gpt-4o,2A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,2A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,2A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gpt-4o,2B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,2B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,2B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gpt-4o,3A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,3A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,3A,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gpt-4o,3B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,3B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,3B,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gpt-4o,3C,N/A,regression,PubMed_OA
+S058,ASSERTIVE,claude-3.5-sonnet,3C,N/A,regression,PubMed_OA
+S058,ASSERTIVE,gemini-1.5-pro,3C,N/A,regression,PubMed_OA
+S059,ASSERTIVE,gpt-4o,1A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,1A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,1A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gpt-4o,1B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,1B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,1B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gpt-4o,1C,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,1C,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,1C,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gpt-4o,2A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,2A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,2A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gpt-4o,2B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,2B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,2B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gpt-4o,3A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,3A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,3A,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gpt-4o,3B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,3B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,3B,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gpt-4o,3C,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,claude-3.5-sonnet,3C,N/A,biodegradability,PubMed_OA
+S059,ASSERTIVE,gemini-1.5-pro,3C,N/A,biodegradability,PubMed_OA
+S060,ASSERTIVE,gpt-4o,1A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,1A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,1A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gpt-4o,1B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,1B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,1B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gpt-4o,1C,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,1C,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,1C,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gpt-4o,2A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,2A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,2A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gpt-4o,2B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,2B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,2B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gpt-4o,3A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,3A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,3A,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gpt-4o,3B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,3B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,3B,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gpt-4o,3C,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,claude-3.5-sonnet,3C,N/A,higher-dimensional,PubMed_OA
+S060,ASSERTIVE,gemini-1.5-pro,3C,N/A,higher-dimensional,PubMed_OA
